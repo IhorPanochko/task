@@ -1,7 +1,7 @@
 package com.task.task.security;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.task.task.Roles;
+import com.task.task.enums.Roles;
 import com.task.task.entities.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

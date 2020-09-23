@@ -1,4 +1,4 @@
-package com.task.task;
+package com.task.task.enums;
 
 
 public enum Roles {

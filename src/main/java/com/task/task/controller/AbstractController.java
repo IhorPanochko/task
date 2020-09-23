@@ -2,7 +2,7 @@ package com.task.task.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.task.task.Roles;
+import com.task.task.enums.Roles;
 import com.task.task.errors.PermissionException;
 import com.task.task.security.UserPrinciple;
 import lombok.RequiredArgsConstructor;
